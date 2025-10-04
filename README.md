@@ -1,6 +1,6 @@
 # CantoChat: Your Real-Time Cantonese Conversational AI
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/raymondhocc/CantoChat-20251004-020730)
 
 CantoChat is a visually stunning web application designed to simulate a native iOS mobile app experience for a real-time Cantonese conversational chatbot. The application's primary focus is on providing a clean, minimalist, and immersive environment for users to practice and learn conversational Cantonese. It leverages the powerful Cloudflare Agents backend for stateful, streaming conversations. The user interface is meticulously crafted to mirror the aesthetics of iOS, featuring iMessage-style chat bubbles, native-like animations, and responsive typography. The entire application is self-contained within a single, elegant view, ensuring the user's focus remains entirely on the conversation.
 
@@ -112,7 +112,7 @@ Deploying the application to Cloudflare is a straightforward process.
 
 Alternatively, you can deploy directly from your GitHub repository using the button below.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/raymondhocc/CantoChat-20251004-020730)
 
 ## Project Structure
 
